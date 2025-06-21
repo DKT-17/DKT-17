@@ -50,7 +50,7 @@
 
 ## 📫 Connect with Me
 
-- 💌 [Email](mailto:your-email@example.com)
+- 💌 [Email](mailto:kuthalanathandinesh@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin/)
 - 🗣️ Open to collaborations in **signal processing**, **audio analysis**, and **embedded systems**
 
